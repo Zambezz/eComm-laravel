@@ -24,13 +24,4 @@
     padding-top: 100px;
 }
 </style>
-<script>
-    $(document).ready(function()
-    {
-        $("button").click(function()
-        {
-            alert("all set")
-        })
-    })
-</script>
 </html>
